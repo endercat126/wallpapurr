@@ -1,4 +1,9 @@
-# wallpapurr
+```
+                            /l、      
+     _ || _  _  _     _ _  (ﾟ､ 。 7   
+ \)/(_||||_)(_||_)|_|| |    l  ~ヽ  　
+         |     |            じしf_,)ノ
+```
 
 A simple cross-platform wallpaper manager written in Python with Flet.
 Should support almost all operating systems and desktops.
