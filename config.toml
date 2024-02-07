@@ -1,0 +1,17 @@
+# Wallpapurr configuration
+
+[general]
+wallpaper_folder = "./default_wallpapers" # Path to the folder where the wallpapers are stored
+
+ # Flet window is currently unable to set size on Wayland, and also uses ugly GTK headerbar on non-GNOME desktops.
+force_x11 = true
+
+[pywal]
+enable = true
+
+[unsplash]
+enable = false
+api_key = "YOUR_API_KEY"
+
+[logging]
+level = "debug"
