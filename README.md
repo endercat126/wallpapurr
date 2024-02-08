@@ -24,6 +24,6 @@ Supported Platforms:
 - Windows
 - Mac
 
-> **Note**  
-I have only tested KDE and Hyprland thus far, please report any issues on other platforms.
+> [!Note]
+I have only tested KDE and Hyprland so far, please report any issues on other platforms.
 
